@@ -1,0 +1,108 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.main-content {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.manage {
+    margin-bottom: 20px;
+}
+
+.manage h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.manage form {
+    margin-bottom: 20px;
+}
+
+.manage form input[type="text"],
+.manage form select,
+.manage form input[type="date"],
+.manage form button {
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+.manage form button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.manage form button:hover {
+    background-color: #45a049;
+}
+.add-article-form {
+    display: none;
+    margin-top: 20px; /* Khoảng cách từ form tìm kiếm xuống form thêm bài viết */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.add-article-form.visible {
+    display: block;
+}
+
+.add-article-form label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.add-article-form input[type="text"],
+.add-article-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.add-article-form button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.add-article-form button:hover {
+    background-color: #45a049;
+}
+.statistics {
+    margin-top: 20px;
+}
+
+
+/* CSS riêng cho phần manage */
+.chart canvas {
+    max-width: 200%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}

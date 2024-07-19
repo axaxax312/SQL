@@ -1,0 +1,420 @@
+Received POST data: Array
+(
+    [articleId] => 1
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 6
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 4
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 2
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 3
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 4
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 5
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 2
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 6
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 3
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 4
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 7
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 7
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 4
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 3
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 7
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 7
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 4
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 7
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 6
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 1
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 7
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 2
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 1
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 8
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 3
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 4
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 6
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 2
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 5
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 4
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 3
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 0
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 2
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 6
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 4
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 5
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 6
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 8
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 6
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 5
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 6
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 0
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 3
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 4
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 4
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 2
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 3
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 1
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 2
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 2
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 0
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 0
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 1
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 7
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 5
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 4
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 4
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 7
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}
+Received POST data: Array
+(
+    [articleId] => 1
+)
+
+Test log message
+Response: {"success":true,"message":"View count updated"}

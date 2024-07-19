@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+.main-content {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+.manage h2 {
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
+form {
+    margin-top: 20px;
+}
+label {
+    font-weight: bold;
+}
+input[type=text], input[type=date], textarea, select {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+button[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+button[type=submit]:hover {
+    background-color: #45a049;
+}
+button[type=submit], a {
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 10px;
+}
+a {
+    color: #4CAF50;
+}
+a:hover {
+    color: #45a049;
+}

@@ -1,0 +1,30 @@
+
+
+.article-table table {
+    width: calc(100% - 270px); /* Adjust width considering sidebar */
+    margin: 20px auto;
+    border-collapse: collapse;
+    background: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.article-table th, .article-table td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.article-table th {
+    background-color: #131921;
+    color: #fff;
+}
+
+.article-table td {
+    background-color: #f9f9f9;
+}
+
+.article-table tr:hover {
+    background-color: #f2f2f2;
+}
